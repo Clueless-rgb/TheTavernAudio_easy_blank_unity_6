@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{5a5ab105-52d7-4cc7-8a31-9525d7b586e5}">
+		<property name="assetPath">
+			<value>Running_Wood/peaks/Running_Wood_1.flac.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82dafd0b-0787-48e2-8c06-c9f8c04c6368}</destination>
+		</relationship>
+	</object>
+</objects>

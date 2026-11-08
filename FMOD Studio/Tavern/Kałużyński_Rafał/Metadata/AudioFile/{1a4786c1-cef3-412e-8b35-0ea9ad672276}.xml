@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1a4786c1-cef3-412e-8b35-0ea9ad672276}">
+		<property name="assetPath">
+			<value>Landing_Stone/Landing_Stone_3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.23217687074829932</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82dafd0b-0787-48e2-8c06-c9f8c04c6368}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9173ef9b-de8b-4ec8-8db6-56a41d444fe1}">
+		<property name="assetPath">
+			<value>Door_Closing.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>180.03126984126985</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{82dafd0b-0787-48e2-8c06-c9f8c04c6368}</destination>
+		</relationship>
+	</object>
+</objects>
